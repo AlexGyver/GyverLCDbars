@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For GyverLCDbars
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+initBar0		KEYWORD1
+initBar1		KEYWORD1
+initBar2		KEYWORD1
+initBar3		KEYWORD1
+initPlot		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+fillBar0		KEYWORD2
+fillBar1		KEYWORD2
+fillBar2		KEYWORD2
+fillBar3		KEYWORD2
+drawPlot		KEYWORD2

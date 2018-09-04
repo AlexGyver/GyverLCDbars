@@ -12,5 +12,6 @@
 ![bar3](https://github.com/AlexGyver/GyverLCDbars/blob/master/images/bar3.jpg)
 
 ## Как использовать
-![bar](https://github.com/AlexGyver/GyverLCDbars/blob/master/images/bar.jpg)
+Обратите внимание на то, что строки начинаются с нуля слева направо, столбцы тоже начинаются с нуля, сверху вниз. Таким образом начало отсчёта графика на фото имеет координаты 0, 3. Длина 12, высота 4
 ![plot](https://github.com/AlexGyver/GyverLCDbars/blob/master/images/plot.jpg)
+![bar](https://github.com/AlexGyver/GyverLCDbars/blob/master/images/bar.jpg)

@@ -21,3 +21,4 @@ fillBar1		KEYWORD2
 fillBar2		KEYWORD2
 fillBar3		KEYWORD2
 drawPlot		KEYWORD2
+drawPlotArray	KEYWORD2
